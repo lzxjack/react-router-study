@@ -238,3 +238,9 @@ export default withRouter(Header);
 | 刷新后对路由`state`参数的影响 | 没有任何影响，因为`state`保存在`history`对象中 |    刷新后会导致路由`state`参数的丢失！    |
 
 备注：`HashRouter`可以用于解决一些`路径错误`相关的问题。
+
+***
+
+欢迎在我的博客上访问：
+
+https://lzxjack.top/article/React-router.html
