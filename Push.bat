@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m react-router
+git commit -m 更新README
 git push
